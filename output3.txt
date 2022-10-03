@@ -1,0 +1,18 @@
+
+For the training number of iterations required = 100000
+and the average mean square error is  = 0.002329
+
+
+V values:
+-5.997661		-2.826381		0.411823		
+51.578373		-31.347591		2.302857		
+-60.006626		46.660332		-1.432419		
+
+W values:
+-0.140556		
+-10.217569		
+9.483665		
+-0.295681		
+
+
+The MSE for 'testing' is 0.012419
